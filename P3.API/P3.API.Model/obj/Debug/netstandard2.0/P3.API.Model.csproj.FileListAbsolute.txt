@@ -1,0 +1,9 @@
+D:\CAN\API\P3.API\P3.API.Model\bin\Debug\netstandard2.0\P3.API.Model.deps.json
+D:\CAN\API\P3.API\P3.API.Model\bin\Debug\netstandard2.0\P3.API.Model.dll
+D:\CAN\API\P3.API\P3.API.Model\bin\Debug\netstandard2.0\P3.API.Model.pdb
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.csprojAssemblyReference.cache
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.csproj.CoreCompileInputs.cache
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.AssemblyInfoInputs.cache
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.AssemblyInfo.cs
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.dll
+D:\CAN\API\P3.API\P3.API.Model\obj\Debug\netstandard2.0\P3.API.Model.pdb

@@ -1,0 +1,12 @@
+D:\CAN\API\P3.API\P3.API.DataBase\bin\Debug\netstandard2.0\P3.API.Control.deps.json
+D:\CAN\API\P3.API\P3.API.DataBase\bin\Debug\netstandard2.0\P3.API.Control.dll
+D:\CAN\API\P3.API\P3.API.DataBase\bin\Debug\netstandard2.0\P3.API.Control.pdb
+D:\CAN\API\P3.API\P3.API.DataBase\bin\Debug\netstandard2.0\P3.API.Model.dll
+D:\CAN\API\P3.API\P3.API.DataBase\bin\Debug\netstandard2.0\P3.API.Model.pdb
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.csprojAssemblyReference.cache
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.csproj.CoreCompileInputs.cache
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.AssemblyInfoInputs.cache
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.AssemblyInfo.cs
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.csproj.CopyComplete
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.dll
+D:\CAN\API\P3.API\P3.API.DataBase\obj\Debug\netstandard2.0\P3.API.Control.pdb

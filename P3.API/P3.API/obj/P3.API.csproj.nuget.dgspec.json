@@ -1,0 +1,192 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CAN\\API\\P3.API\\P3.API\\P3.API.csproj": {}
+  },
+  "projects": {
+    "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\P3.API.Control.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\P3.API.Control.csproj",
+        "projectName": "P3.API.Control",
+        "projectPath": "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\P3.API.Control.csproj",
+        "packagesPath": "C:\\Users\\caue\\.nuget\\packages\\",
+        "outputPath": "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\caue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj": {
+                "projectPath": "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj",
+        "projectName": "P3.API.Model",
+        "projectPath": "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj",
+        "packagesPath": "C:\\Users\\caue\\.nuget\\packages\\",
+        "outputPath": "D:\\CAN\\API\\P3.API\\P3.API.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\caue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\CAN\\API\\P3.API\\P3.API\\P3.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CAN\\API\\P3.API\\P3.API\\P3.API.csproj",
+        "projectName": "P3.API",
+        "projectPath": "D:\\CAN\\API\\P3.API\\P3.API\\P3.API.csproj",
+        "packagesPath": "C:\\Users\\caue\\.nuget\\packages\\",
+        "outputPath": "D:\\CAN\\API\\P3.API\\P3.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\caue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\P3.API.Control.csproj": {
+                "projectPath": "D:\\CAN\\API\\P3.API\\P3.API.DataBase\\P3.API.Control.csproj"
+              },
+              "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj": {
+                "projectPath": "D:\\CAN\\API\\P3.API\\P3.API.Model\\P3.API.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
